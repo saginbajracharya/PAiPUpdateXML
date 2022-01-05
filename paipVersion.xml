@@ -3,9 +3,9 @@
   <channel>
     <title>Test</title>
     <item>
-        <title>Version 1.0.1</title>
-        <sparkle:version>1.0.1</sparkle:version>
-        <sparkle:maximumSystemVersion>1.0.1</sparkle:maximumSystemVersion>
+        <title>Version 1.0.2</title>
+        <sparkle:version>1.0.2</sparkle:version>
+        <sparkle:maximumSystemVersion>1.0.2</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
