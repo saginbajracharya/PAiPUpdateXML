@@ -7,7 +7,7 @@
         <title>Version 1.0.0</title>
         <description>First PAiP Version</description>
         <pubDate>Saturday, 26 Jul 2021 15:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.yig.mi.paip" sparkle:version="1.15.0" sparkle:os="android" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.yig.mi.paip" sparkle:version="1.0.0" sparkle:os="android" />
         <!-- <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>  -->
     </item>
     <!-- 2nd update -->
@@ -15,7 +15,7 @@
         <title>Version 2.0.0</title>
         <description>Second PAiP Version, Minor updates and improvements.</description>
         <pubDate>Thursday, 6 Jan 2022 12:25:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.yig.mi.paip" sparkle:version="1.15.0" sparkle:os="android" />
+        <enclosure url="https://play.google.com/store/apps/details?id=com.yig.mi.paip" sparkle:version="2.0.0" sparkle:os="android" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
